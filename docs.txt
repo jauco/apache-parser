@@ -1,0 +1,18 @@
+One directive per line
+  lines may be extended by placing a slash as the last character
+  in that case the \\\n sequence is completely ignored
+
+arguments are whitespace separated
+you may quote an argument (" or ')
+
+directive id's are case insensitive
+arguments are not
+
+comments are lines starting with #
+you cannot have a comment on a line with a directive
+
+a directive may be preceded by whitespace
+there may be blank lines
+
+
+
